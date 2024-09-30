@@ -1,1 +1,1 @@
-# cs251-prj3
+# A simple DApp
